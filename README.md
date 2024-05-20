@@ -4,4 +4,5 @@ Learning coding using Go Lang
 
 ## Resources
 
-- [Go tutorial](https://tour.golang.org)
+- [Go Tour](https://tour.golang.org)
+- [Go Tutorials](https://go.dev/doc/tutorial/)
